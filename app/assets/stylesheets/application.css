@@ -12,3 +12,6 @@
  *= require_tree .
  */
 
+.alert {
+	margin-top: 10px;
+}
