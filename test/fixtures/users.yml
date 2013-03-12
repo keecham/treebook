@@ -1,7 +1,6 @@
 Dummy:
-  first_name: "User"
-  last_name: "User2"
+  first_name: "kishore"
+  last_name: "eechambadi"
   email: "user@gmail.com"
   profile_name: "username"
   encrypted_password: "password"
-  

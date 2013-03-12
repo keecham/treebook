@@ -3,9 +3,8 @@
 one:
 
   content: MyString
-  text: MyString
+  user: kishore
 
 two:
- 
   content: MyString
-  text: MyString
+  user: kishore
