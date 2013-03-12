@@ -1,6 +1,13 @@
-Dummy:
+kishore:
   first_name: "kishore"
   last_name: "eechambadi"
   email: "user@gmail.com"
-  profile_name: "username"
+  profile_name: "kishore"
   encrypted_password: "password"
+
+naras:
+  first_name: "naras"
+  last_name: "eechambadi"
+  email: "user2@gmail.com"
+  profile_name: "naras"
+  encrypted_password: "password2"
